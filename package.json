@@ -1,0 +1,24 @@
+{
+  "name": "my_typescript_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elizabethhub/my_typescript_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elizabethhub/my_typescript_app/issues"
+  },
+  "homepage": "https://github.com/Elizabethhub/my_typescript_app#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.1"
+  }
+}
